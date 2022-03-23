@@ -1,5 +1,10 @@
 # vue-play
 
+## Created using
+```
+vue create vue-play
+```
+
 ## Project setup
 ```
 npm install
@@ -18,6 +23,11 @@ npm run build
 ### Lints and fixes files
 ```
 npm run lint
+```
+
+### How to Run Unit Tests
+```
+npm run test:unit
 ```
 
 ### Customize configuration
