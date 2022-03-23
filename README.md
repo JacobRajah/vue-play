@@ -25,9 +25,14 @@ npm run build
 npm run lint
 ```
 
-### How to Run Unit Tests
+### How to Run Unit Tests Jest
 ```
 npm run test:unit
+```
+
+### How to Run E2E Tests Cypress
+```
+npm run test:e2e
 ```
 
 ### Customize configuration
